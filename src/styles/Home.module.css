@@ -281,7 +281,7 @@
   }
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   .vercelLogo {
     filter: invert(0);
   }
@@ -290,7 +290,7 @@
   .thirteen img {
     
   } */
-}
+/* }  */
 
 @keyframes rotate {
   from {
