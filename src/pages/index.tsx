@@ -55,13 +55,13 @@ export default function Home() {
             </p> */}
           </Link>
           <Link
-            href="https://janiacorreia.empregare.com/pt-br/vaga-assistente-contabil_46062"
+            href="https://vagas.cajugram.com.br"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={montserrat.className}>
-              Vaga para Assistente Contábil 
+              Vaga para Hunter de Mercado Externo
               <span>
                 <Image 
                   src="https://img.icons8.com/ios-filled/50/2b4732/find-matching-job.png" 
@@ -75,6 +75,7 @@ export default function Home() {
               Faça parte do nosso time!
             </p> */}
           </Link>
+          {/* 
           <Link
             href="https://janiacorreia.empregare.com/pt-br/vaga-analista-de-rh_46065"
             className={styles.card}
@@ -92,10 +93,11 @@ export default function Home() {
                 />
               </span>
             </h2>
-            {/* <p className={inter.className}>
+            <p className={inter.className}>
               Faça parte do nosso time!
-            </p> */}
-          </Link>
+            </p> 
+          </Link> 
+          */}
         </div>
       </main>
     </>
