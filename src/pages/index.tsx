@@ -98,7 +98,6 @@ export default function Home() {
             </p> 
           </Link> 
           */}
-          
         </div>
       </main>
     </>
